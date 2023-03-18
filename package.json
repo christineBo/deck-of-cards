@@ -1,0 +1,15 @@
+{
+  "name": "card-decks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ez-read": "^1.0.9",
+    "node-emoji": "^1.11.0"
+  }
+}
